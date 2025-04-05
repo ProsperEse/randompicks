@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\bin\Debug\net8.0\RandomPicks.exe
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\bin\Debug\net8.0\RandomPicks.deps.json
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\bin\Debug\net8.0\RandomPicks.runtimeconfig.json
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\bin\Debug\net8.0\RandomPicks.dll
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\bin\Debug\net8.0\RandomPicks.pdb
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.AssemblyInfo.cs
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.dll
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\refint\RandomPicks.dll
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.pdb
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.genruntimeconfig.cache
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\ref\RandomPicks.dll
