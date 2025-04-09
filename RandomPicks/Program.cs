@@ -14,7 +14,7 @@
                 Console.Write("Pick a number between 1 and 100: ");
                 string number = Console.ReadLine();
 
-                if(number == "X")
+                if(number.ToLower() == "x")
                 {
                     break;
                 }
