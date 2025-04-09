@@ -12,3 +12,4 @@ C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\refint\RandomP
 C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.pdb
 C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.genruntimeconfig.cache
 C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\ref\RandomPicks.dll
+C:\Users\hp\source\repos\RandomPicks\RandomPicks\obj\Debug\net8.0\RandomPicks.sourcelink.json
